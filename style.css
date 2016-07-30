@@ -1,0 +1,34 @@
+.content {
+  background-color: #E2E0E0;
+  margin-top: 25px;
+  margin-right: 12%;
+  margin-bottom: 25px;
+  margin-left: 12%;
+}
+
+.page-heading {
+  text-align: center;
+}
+
+.main-title {
+  font-size: 64;
+}
+
+.italic-subtitle {
+  font-style: italic;
+}
+
+.norman-image {
+  text-align: center;
+}
+
+.timeline {
+  margin-top: 5px;
+  margin-right: 13%;
+  margin-bottom: 5px;
+  margin-left: 13%; 
+}
+
+.link {
+  margin-right: 130px;
+}
